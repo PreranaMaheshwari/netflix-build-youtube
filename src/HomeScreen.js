@@ -1,3 +1,8 @@
-import { readDataTransferFromClipboard } from "@testing-library/user-event/dist/types/utils";
+import React from 'react'
 
-readDataTransferFromClipboard
+function HomeScreen (){
+    return (
+        <div className="homeScreen"></div>;
+}
+
+export default HomeScreen
