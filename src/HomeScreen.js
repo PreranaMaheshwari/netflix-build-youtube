@@ -1,7 +1,7 @@
 import React from 'react'
 
 function HomeScreen (){
-    return (
+    return
         <div className="homeScreen"></div>;
 }
 
