@@ -7,7 +7,7 @@ function Nav() {
         <div className="nav__contents">
         <img 
         className="nav_logo"
-        src="https://assets.cdn.moviepilot.de/files/603f0c884f66e18724692ef18ecc52e07e50986299ddb63253ede5670147/fill/1200/576/netflix%20logo.jpg" 
+        src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" 
         alt=""
         />
 
