@@ -5,7 +5,7 @@ import Nav from './Nav';
 
 
 function HomeScreen (){
-    return <div className="homeScreen">
+    return <div className="https://pixy.org/src/49/491517.png">
         <Nav />
 
         <Banner />
