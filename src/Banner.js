@@ -11,11 +11,14 @@ function Banner() {
     <div className="banner__contents">
         <h1 className="banner__title">Movie Name</h1>
         <div className="banner__buttons">
-            <button>Play</button>
-            <button>My List</button>
+            <button className="banner__button">Play</button>
+            <button className="banner__button">My List</button>
         </div>
+        <h1 className="banner__description">This is a test description</h1>
     
     </div>
+
+    <div className="banner--fadeBottom" />
   </header>
   );
 }
