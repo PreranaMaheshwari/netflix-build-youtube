@@ -7,7 +7,12 @@ function Banner() {
     backgroundImage: `url("https://pixy.org/src/49/491517.png")`,
     backgroundPosition: "center center",
   }}
-  ></header>
+  >
+    
+
+
+
+  </header>
   );
 }
 
