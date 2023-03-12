@@ -10,7 +10,7 @@ function Banner() {
 
   return (
   <header className="banner" style={{
-    backgroundImage: `url("https://pixy.org/src/49/491517.png")`,
+    backgroundImage: `url("https://upload.wikimedia.org/wikipedia/commons/c/cd/Black_flag.svg")`,
     backgroundPosition: "center center",
   }}
   >
